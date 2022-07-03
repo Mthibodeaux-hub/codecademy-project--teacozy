@@ -76,7 +76,7 @@ main {
 display: flex;
 width: 1200px;
 height: 700px;
-background-image: url(./images/img-mission-background.jpeg);
+background-image: url(img-mission-background.jpeg);
 background-repeat: no-repeat;
 background-position: center;
 background-size: cover;
@@ -136,7 +136,7 @@ align-items: center;
 #card-container {
   max-height: 500px;
   width: 100%;
-  background-image: url(./images/img-locations-background.jpeg);
+  background-image: url(img-locations-background.jpeg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
