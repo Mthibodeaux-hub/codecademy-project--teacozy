@@ -8,3 +8,7 @@ We will provide a design spec and image assets to help you along the way. A desi
 ## Languages
 - HTML
 - CSS
+
+# WIP
+
+This webpage is incomplete. I will update when complete. 
