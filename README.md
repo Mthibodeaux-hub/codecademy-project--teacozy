@@ -13,4 +13,5 @@ We will provide a design spec and image assets to help you along the way. A desi
 
 Correctly implement Flexbox. 
 
-###Comments welcome. 
+## Comments
+Comments are welcome. 
