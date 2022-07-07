@@ -9,6 +9,8 @@ We will provide a design spec and image assets to help you along the way. A desi
 - HTML
 - CSS
 
-# WIP
+## Challenge
 
-This webpage is incomplete. I will update when complete. 
+Correctly implement Flexbox. 
+
+###Comments welcome. 
