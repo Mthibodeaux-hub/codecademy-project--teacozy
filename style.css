@@ -77,7 +77,7 @@ main {
 display: flex;
 width: 1200px;
 min-height: 700px;
-background-image: url(img-mission-background.jpeg);
+background-image: url('img-mission-background.jpeg');
 background-repeat: no-repeat;
 background-position: center;
 background-size: cover;
@@ -153,7 +153,7 @@ align-items: center;
   width: 1200px;
   min-height: 500px;
   justify-content: center;
-  background-image: url(img-locations-background.jpeg);
+  background-image: url('img-locations-background.jpeg');
   flex-direction: column;
 }
 
