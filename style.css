@@ -154,7 +154,6 @@ align-items: center;
   min-height: 500px;
   justify-content: center;
   background-image: url('img-locations-background.jpeg');
-  background-position: center;
   background-repeat: no-repeat;
   flex-direction: column;
 }
